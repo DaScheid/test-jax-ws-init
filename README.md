@@ -1,0 +1,1 @@
+# test-jax-ws-init
